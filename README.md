@@ -1,4 +1,4 @@
-# End-to-End Data Analysis Pipeline with Python, Pandas, and SQL Server
+# End-to-End Data Analysis Pipeline Project  with Python, Pandas, and SQL Server
 
 This project demonstrates a professional-grade data analysis pipeline, integrating various tools like the Kaggle API, Python, Pandas, and SQL Server. The pipeline enables the efficient downloading, cleaning, processing, and analysis of datasets, providing valuable insights through structured data analysis.
 
