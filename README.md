@@ -2,18 +2,6 @@
 
 This project demonstrates a professional-grade data analysis pipeline, integrating various tools like the Kaggle API, Python, Pandas, and SQL Server. The pipeline enables the efficient downloading, cleaning, processing, and analysis of datasets, providing valuable insights through structured data analysis.
 
-## Table of Contents
-- [Project Summary](#project-summary)
-- [Project Architecture](#project-architecture)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Step 1: Download Dataset](#step-1-download-dataset)
-  - [Step 2: Data Cleaning and Processing](#step-2-data-cleaning-and-processing)
-  - [Step 3: Load Data into SQL Server](#step-3-load-data-into-sql-server)
-  - [Step 4: Data Analysis](#step-4-data-analysis)
-- [Conclusion](#conclusion)
-- [License](#license)
 
 ## Project Summary
 
@@ -28,7 +16,10 @@ This project showcases an end-to-end data analysis pipeline that includes:
 
 Below is the architecture of the project, visually illustrating the flow of data through the various stages:
 
-![Project Architecture](./path_to_image/project_architecture.png)
+![Project Architecture]
+
+![image](https://github.com/user-attachments/assets/f1f31b83-4efd-47a2-b110-bde9bc79937d)
+
 
 1. **Download Dataset**: Retrieve data from Kaggle using Python.
 2. **Data Cleaning and Processing**: Use Pandas to clean and process the data.
